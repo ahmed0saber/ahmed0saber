@@ -14,7 +14,7 @@
 - 😌 I love coding, gaming, reading, drawing and more...
 
 
-### 🏆 Github trophies
+### Github trophies 🏆
 
 <p>
  
@@ -23,7 +23,7 @@
 </p>
 
 
-### 👦 Github Stats:
+### Github Stats 👦
 
 <div align="left">
 
