@@ -27,10 +27,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ahmed0saber&show_icons=true&theme=buefy&count_private=true" alt="my github stats" width="420"/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed0saber" width="420" height="165">
 </p>
-   
-<p>
-   <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ahmed0saber&show-avatar=false&style=--header-bg-color:%23000;--border-radius:3px">
-</p>
 
    
 </div>
