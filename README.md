@@ -20,20 +20,31 @@
 ## My Skills
 
 <ul>
- <li>HTML</li>
- <li>CSS</li>
+ <li>Full Stack Web Developer</li>
  <ul>
-  <li>SASS</li>
-  <li>Materialize</li>
-  <li>Bootstrap</li>
+  <li>Frontend</li>
+  <ul>
+   <li>HTML</li>
+   <li>CSS</li>
+   <ul>
+    <li>SASS</li>
+    <li>Materialize</li>
+    <li>Bootstrap</li>
+   </ul>
+   <li>JavaScript</li>
+   <ul>
+    <li>Pug</li>
+    <li>Electron</li>
+    <li>jQuery</li>
+   </ul>
+  </ul>
+  <li>Backend</li>
+  <ul>
+   <li>PHP</li>
+   <li>SQL</li>
+   <li>MYSQL</li>
+  </ul>
  </ul>
- <li>JavaScript</li>
- <ul>
-  <li>Pug</li>
-  <li>Electron</li>
-  <li>jQuery</li>
- </ul>
- <li>PHP</li>
 </ul>
 
 ### Github trophies 🏆
