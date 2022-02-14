@@ -21,11 +21,19 @@
 
 <ul>
  <li>HTML</li>
+ <li>CSS</li>
  <ul>
-  <li>CSS</li>
+  <li>SASS</li>
   <li>Materialize</li>
   <li>Bootstrap</li>
  </ul>
+ <li>JavaScript</li>
+ <ul>
+  <li>Pug</li>
+  <li>Electron</li>
+  <li>jQuery</li>
+ </ul>
+ <li>PHP</li>
 </ul>
 
 ### Github trophies 🏆
