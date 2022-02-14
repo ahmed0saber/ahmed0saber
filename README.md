@@ -6,7 +6,7 @@
 
 <hr>
 
-### Hi there 👋
+# Hi there 👋
 
 - 🔭 I’m currently studying at faculty of science, Kafr El Sheikh University, Egypt.
 - 🌱 I’m learning Frontend Web Development.
@@ -16,6 +16,17 @@
 - 😌 I love coding, gaming, reading, drawing and more...
 
 <hr>
+
+## My Skills
+
+<ul>
+ <li>HTML</li>
+ <ul>
+  <li>CSS</li>
+  <li>Materialize</li>
+  <li>Bootstrap</li>
+ </ul>
+</ul>
 
 ### Github trophies 🏆
 
