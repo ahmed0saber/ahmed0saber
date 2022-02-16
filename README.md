@@ -36,6 +36,7 @@
     <li>Pug</li>
     <li>Electron</li>
     <li>jQuery</li>
+    <li>React</li>
    </ul>
   </ul>
   <li>Backend</li>
