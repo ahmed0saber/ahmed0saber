@@ -99,4 +99,4 @@
 
 ## Contact Me 😊
 
-<p><a style="padding:8px 24px; background-color:#00b; color:#f7f7f7;" href="https://www.facebook.com/profile.php?id=100004875915808">Facebook</a></p>
+<p><a target="_blank" style="padding:8px 24px; background-color:#00b; color:#f7f7f7;" href="https://www.facebook.com/profile.php?id=100004875915808">Facebook</a></p>
