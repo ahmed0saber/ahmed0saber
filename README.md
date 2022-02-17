@@ -10,14 +10,14 @@
 >
 >> - 🔭 I’m currently studying at faculty of science, Kafr El Sheikh University, Egypt.
 >> - 🌱 I’m learning Frontend Web Development.
->> - 👯 I’m looking to collaborate on some web projects.
+>> - 🤝 I’m looking to collaborate on some web projects.
 >> - 💬 Ask me about Web Technologies.
 >> - 📫 How to reach me: ahmed0saber33@gmail.com, +201208611892.
 >> - 😌 I love coding, gaming, reading, drawing and more...
 
 <hr>
 
-## My Skills
+## My Skills ✅
 
 <ul>
  <li>Full Stack Web Developer</li>
@@ -60,7 +60,7 @@
 
 <hr>
 
-## Github Stats 👦
+## Github Stats 🔥
 
 <div align="left">
 
@@ -96,3 +96,7 @@
 </p>
 
 <hr>
+
+## Contact Me 😊
+
+<p><a style="padding:8px 24px; background-color:#00b; color:#f7f7f7;" href="https://www.facebook.com/profile.php?id=100004875915808">Facebook</a></p>
