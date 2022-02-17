@@ -4,6 +4,10 @@
  
 </p>
 
+| First Name | Last Name | Birth Date    |
+| :--------- |:----------| :-------------|
+| Ahmed      | Saber     | July 5th 2001 |
+
 <hr>
 
 ## Hi there 👋
