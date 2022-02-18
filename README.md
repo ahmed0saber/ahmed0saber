@@ -41,6 +41,9 @@
     <li>Electron</li>
     <li>jQuery</li>
     <li>React</li>
+    <ul>
+     <li>Redux</li>
+    </ul>
    </ul>
   </ul>
   <li>Backend</li>
