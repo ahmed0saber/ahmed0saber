@@ -113,3 +113,7 @@
 ## Contact Me 😊
 
 <p><a target="_blank" style="padding:8px 24px; background-color:#00b; color:#f7f7f7;" href="https://www.facebook.com/profile.php?id=100004875915808">Facebook</a></p>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
