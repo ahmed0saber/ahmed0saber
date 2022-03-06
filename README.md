@@ -49,6 +49,7 @@
     <ul>
      <li>Redux</li>
     </ul>
+    <li>TypeScript</li>
    </ul>
   </ul>
   <li>Backend</li>
