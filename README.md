@@ -50,6 +50,8 @@
      <li>Redux</li>
     </ul>
     <li>TypeScript</li>
+    <li>D3.js</li>
+    <li>Chart.js</li>
    </ul>
   </ul>
   <li>Backend</li>
