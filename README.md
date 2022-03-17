@@ -52,6 +52,7 @@
     <li>TypeScript</li>
     <li>D3.js</li>
     <li>Chart.js</li>
+    <li>Neutralino JS</li>
    </ul>
   </ul>
   <li>Backend</li>
