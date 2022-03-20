@@ -39,9 +39,11 @@
     <li>SASS</li>
     <li>Materialize</li>
     <li>Bootstrap</li>
+    <li>animate.css</li>
    </ul>
    <li>JavaScript</li>
    <ul>
+    <li>aos.js</li>
     <li>Pug</li>
     <li>Electron</li>
     <li>jQuery</li>
