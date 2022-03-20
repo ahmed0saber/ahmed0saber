@@ -53,6 +53,7 @@
     <li>D3.js</li>
     <li>Chart.js</li>
     <li>Neutralino JS</li>
+    <li>Firebase</li>
    </ul>
   </ul>
   <li>Backend</li>
