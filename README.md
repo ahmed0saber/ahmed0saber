@@ -37,15 +37,16 @@
    <li>CSS</li>
    <ul>
     <li>SASS</li>
-    <li>Materialize</li>
+    <li>Materialize.css</li>
     <li>Bootstrap</li>
-    <li>animate.css</li>
+    <li>Animate.css</li>
    </ul>
    <li>JavaScript</li>
    <ul>
+    <li>JSON</li>
     <li>aos.js</li>
-    <li>Pug</li>
-    <li>Electron</li>
+    <li>Pug.js</li>
+    <li>Electron.js</li>
     <li>jQuery</li>
     <li>React</li>
     <ul>
@@ -54,7 +55,7 @@
     <li>TypeScript</li>
     <li>D3.js</li>
     <li>Chart.js</li>
-    <li>Neutralino JS</li>
+    <li>Neutralino.js</li>
     <li>Firebase</li>
     <li>Tensorflow.js (coming soon)</li>
    </ul>
