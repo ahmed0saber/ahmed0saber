@@ -57,7 +57,7 @@
     <li>Chart.js</li>
     <li>Neutralino.js</li>
     <li>Firebase</li>
-    <li>Tensorflow.js (coming soon)</li>
+    <li>Tensorflow.js</li>
    </ul>
   </ul>
   <li>Backend</li>
