@@ -59,6 +59,7 @@
     <li>Neutralino.js</li>
     <li>Firebase</li>
     <li>Tensorflow.js</li>
+    <li>Swiper.js</li>
    </ul>
   </ul>
   <li>Backend</li>
