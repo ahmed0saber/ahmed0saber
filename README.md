@@ -100,7 +100,7 @@
 
 <br>
  
-[![Years On GitHub](https://badges.pufler.dev/years/ahmed0saber)](https://badges.pufler.dev)
+<!-- [![Years On GitHub](https://badges.pufler.dev/years/ahmed0saber)](https://badges.pufler.dev) -->
  
 <hr>
  
