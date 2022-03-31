@@ -61,6 +61,7 @@
     <li>Firebase</li>
     <li>Tensorflow.js</li>
     <li>Swiper.js</li>
+    <li>Swup.js</li>
    </ul>
   </ul>
   <li>Backend</li>
