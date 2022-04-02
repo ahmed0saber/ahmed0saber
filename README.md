@@ -62,6 +62,7 @@
     <li>Tensorflow.js</li>
     <li>Swiper.js</li>
     <li>Swup.js</li>
+    <li>Plotly.js</li>
    </ul>
   </ul>
   <li>Backend</li>
