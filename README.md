@@ -54,6 +54,7 @@
      <li>Redux</li>
      <li>react-bootstrap</li>
      <li>Next.js</li>
+     <li>React native</li>
     </ul>
     <li>TypeScript</li>
     <li>D3.js</li>
