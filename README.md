@@ -65,8 +65,8 @@
     <li>Swiper.js</li>
     <li>Swup.js</li>
     <li>Plotly.js</li>
-    <li>Git && GitHub</li>
    </ul>
+   <li>Git && GitHub</li>
   </ul>
   <li>Backend</li>
   <ul>
