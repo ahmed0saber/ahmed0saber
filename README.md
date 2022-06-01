@@ -99,7 +99,7 @@
 
 <br> -->
 
-[![Most Active GitHub User Rank](https://enn0fel446nvsvy.m.pipedream.net)](https://commits.top/egypt.html)
+<!-- [![Most Active GitHub User Rank](https://enn0fel446nvsvy.m.pipedream.net)](https://commits.top/egypt.html) -->
 
 <!-- <br> -->
 
