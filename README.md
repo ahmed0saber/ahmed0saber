@@ -6,17 +6,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Ahmed+Saber;A+Full+Stack+Web+Developer;With+2+years+of+experience.)](https://git.io/typing-svg)
 
 
-<p>
+<!-- <p>
  
 ![Ahmed Saber](https://img.shields.io/static/v1?label=Ahmed%20Saber&message=Native%20PHP%20Full%20Stack%20Web%20Developer&color=blueviolet)
  
-</p>
+</p> -->
 
-| First Name | Last Name | Birth Date    |
+<!-- | First Name | Last Name | Birth Date    |
 | :--------- |:----------| :-------------|
 | Ahmed      | Saber     | July 5th 2001 |
 
-<hr>
+<hr> -->
 
 # Hi there 👋
 
@@ -103,9 +103,9 @@
 
 <br>
 
-[![Repos Badge](https://badges.pufler.dev/repos/ahmed0saber)](https://badges.pufler.dev)
+<!-- [![Repos Badge](https://badges.pufler.dev/repos/ahmed0saber)](https://badges.pufler.dev)
 
-<br>
+<br> -->
  
 <!-- [![Years On GitHub](https://badges.pufler.dev/years/ahmed0saber)](https://badges.pufler.dev) -->
  
@@ -131,9 +131,9 @@
 <hr>
 
 
-## Contact Me 😊
+<!-- ## Contact Me 😊
 
-<p><a target="_blank" style="padding:8px 24px; background-color:#00b; color:#f7f7f7;" href="https://www.facebook.com/profile.php?id=100004875915808">Facebook</a></p>
+<p><a target="_blank" style="padding:8px 24px; background-color:#00b; color:#f7f7f7;" href="https://www.facebook.com/profile.php?id=100004875915808">Facebook</a></p> -->
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
