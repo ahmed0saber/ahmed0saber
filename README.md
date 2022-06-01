@@ -27,9 +27,9 @@
 > - 📫 How to reach me: ahmed0saber33@gmail.com, +201208611892.
 > - 😌 I love coding, gaming, reading, drawing and more...
 
-<hr>
+<!-- <hr> -->
 
-## My Skills 👑
+<!-- ## My Skills 👑
 
 <ul>
  <li>Full Stack Web Developer</li>
@@ -77,7 +77,7 @@
    <li>MYSQL</li>
   </ul>
  </ul>
-</ul>
+</ul> -->
 
 <!-- <hr> -->
 
