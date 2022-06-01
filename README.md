@@ -1,9 +1,9 @@
 <!-- <img width=100% src="https://www.codewars.com/users/ahmed0saber/badges/large" /> -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Ahmed Saber&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Ahmed Saber&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Ahmed+Saber;A+Full+Stack+Web+Developer;With+2+years+of+experience.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Ahmed+Saber;A+Full+Stack+Web+Developer;With+2+years+of+experience.)](https://git.io/typing-svg) -->
 
 
 <!-- <p>
@@ -79,9 +79,9 @@
  </ul>
 </ul>
 
-<hr>
+<!-- <hr> -->
 
-## Github trophies 🏆
+<!-- ## Github trophies 🏆
 
 <p>
  
@@ -89,19 +89,19 @@
     
 </p>
 
-<hr>
+<hr> -->
 
-## Github Stats 🔥
+<!-- ## Github Stats 🔥
 
 <div align="left">
 
 ![profile visit](https://komarev.com/ghpvc/?username=ahmed0saber) 
 
-<br>
+<br> -->
 
 [![Most Active GitHub User Rank](https://enn0fel446nvsvy.m.pipedream.net)](https://commits.top/egypt.html)
 
-<br>
+<!-- <br> -->
 
 <!-- [![Repos Badge](https://badges.pufler.dev/repos/ahmed0saber)](https://badges.pufler.dev)
 
@@ -109,26 +109,24 @@
  
 <!-- [![Years On GitHub](https://badges.pufler.dev/years/ahmed0saber)](https://badges.pufler.dev) -->
  
-<hr>
+<!-- <hr> -->
  
-<p align="left">
+<!-- <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ahmed0saber&show_icons=true&theme=buefy&count_private=true" alt="my github stats" width="420"/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed0saber" width="420" height="165">
 </p>
    
-</div>
+</div> -->
 
 <!--
 <hr>
 -->
 
-<p align="left">
-<!--
+<!-- <p align="left">
 <img src ="https://activity-graph.herokuapp.com/graph?username=ahmed0saber&bg_color=ffffff&color=0400ff&line=0400ff&point=03d3d&area=true&hide_border=true" width="420" height="165" >
--->
-</p>
+</p> -->
 
-<hr>
+<!-- <hr> -->
 
 
 <!-- ## Contact Me 😊
@@ -136,5 +134,5 @@
 <p><a target="_blank" style="padding:8px 24px; background-color:#00b; color:#f7f7f7;" href="https://www.facebook.com/profile.php?id=100004875915808">Facebook</a></p> -->
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/> -->
 
