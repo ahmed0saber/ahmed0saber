@@ -103,20 +103,20 @@
 
 <!-- <br> -->
 
-<!-- [![Repos Badge](https://badges.pufler.dev/repos/ahmed0saber)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/ahmed0saber)](https://badges.pufler.dev)
 
-<br> -->
+<br>
  
 <!-- [![Years On GitHub](https://badges.pufler.dev/years/ahmed0saber)](https://badges.pufler.dev) -->
  
 <!-- <hr> -->
  
-<p align="left">
+<!-- <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ahmed0saber&show_icons=true&theme=buefy&count_private=true" alt="my github stats" width="420"/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed0saber" width="420" height="165">
 </p>
    
-</div>
+</div> -->
 
 <!--
 <hr>
