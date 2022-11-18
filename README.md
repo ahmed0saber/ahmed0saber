@@ -81,7 +81,7 @@
 
 <!-- <hr> -->
 
-## Github trophies 🏆
+<!-- ## Github trophies 🏆
 
 <p>
  
@@ -89,9 +89,9 @@
     
 </p>
 
-<hr>
+<hr> -->
 
-## Github Stats 🔥
+<!-- ## Github Stats 🔥 -->
 
 <div align="left">
 
