@@ -81,15 +81,15 @@
 
 <!-- <hr> -->
 
-<!-- ## Github trophies 🏆
+<!-- ## Github trophies 🏆 -->
 
-<p>
+<!-- <p>
  
 ![trophy](https://github-profile-trophy.vercel.app/?username=ahmed0saber&margin-w=15theme=dark)
     
-</p>
+</p> -->
 
-<hr> -->
+<hr>
 
 <!-- ## Github Stats 🔥 -->
 
