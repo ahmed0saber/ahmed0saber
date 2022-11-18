@@ -81,7 +81,7 @@
 
 <!-- <hr> -->
 
-<!-- ## Github trophies 🏆
+## Github trophies 🏆
 
 <p>
  
@@ -89,7 +89,7 @@
     
 </p>
 
-<hr> -->
+<hr>
 
 ## Github Stats 🔥
 
@@ -97,9 +97,9 @@
 
 ![profile visit](https://komarev.com/ghpvc/?username=ahmed0saber) 
 
-<br>
+<!-- <br> -->
 
-[![Most Active GitHub User Rank](https://enn0fel446nvsvy.m.pipedream.net)](https://commits.top/egypt.html)
+<!-- [![Most Active GitHub User Rank](https://enn0fel446nvsvy.m.pipedream.net)](https://commits.top/egypt.html) -->
 
 <!-- <br> -->
 
@@ -114,9 +114,9 @@
 <!-- <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ahmed0saber&show_icons=true&theme=buefy&count_private=true" alt="my github stats" width="420"/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed0saber" width="420" height="165">
-</p>
+</p> -->
    
-</div> -->
+</div>
 
 <!--
 <hr>
