@@ -81,52 +81,52 @@
 
 <!-- <hr> -->
 
-<!-- ## Github trophies 🏆 -->
+## Github trophies 🏆
 
-<!-- <p>
+<p>
  
 ![trophy](https://github-profile-trophy.vercel.app/?username=ahmed0saber&margin-w=15theme=dark)
     
-</p> -->
+</p>
 
 <hr>
 
-<!-- ## Github Stats 🔥 -->
+## Github Stats 🔥
 
 <div align="left">
 
 ![profile visit](https://komarev.com/ghpvc/?username=ahmed0saber) 
 
-<!-- <br> -->
+<br>
 
-<!-- [![Most Active GitHub User Rank](https://enn0fel446nvsvy.m.pipedream.net)](https://commits.top/egypt.html) -->
+[![Most Active GitHub User Rank](https://enn0fel446nvsvy.m.pipedream.net)](https://commits.top/egypt.html)
 
-<!-- <br> -->
+<br>
 
-<!-- [![Repos Badge](https://badges.pufler.dev/repos/ahmed0saber)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/ahmed0saber)](https://badges.pufler.dev)
 
-<br> -->
+<br>
  
-<!-- [![Years On GitHub](https://badges.pufler.dev/years/ahmed0saber)](https://badges.pufler.dev) -->
+[![Years On GitHub](https://badges.pufler.dev/years/ahmed0saber)](https://badges.pufler.dev)
  
-<!-- <hr> -->
+<hr>
  
-<!-- <p align="left">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ahmed0saber&show_icons=true&theme=buefy&count_private=true" alt="my github stats" width="420"/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed0saber" width="420" height="165">
-</p> -->
+</p>
    
 </div>
 
-<!--
+
 <hr>
--->
 
-<!-- <p align="left">
+
+<p align="left">
 <img src ="https://activity-graph.herokuapp.com/graph?username=ahmed0saber&bg_color=ffffff&color=0400ff&line=0400ff&point=03d3d&area=true&hide_border=true" width="420" height="165" >
-</p> -->
+</p>
 
-<!-- <hr> -->
+<hr>
 
 
 <!-- ## Contact Me 😊
