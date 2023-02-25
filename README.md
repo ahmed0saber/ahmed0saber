@@ -81,7 +81,7 @@
 
 <!-- <hr> -->
 
-## Github trophies 🏆
+<!-- ## Github trophies 🏆
 
 <p>
  
@@ -126,7 +126,7 @@
 <img src ="https://activity-graph.herokuapp.com/graph?username=ahmed0saber&bg_color=ffffff&color=0400ff&line=0400ff&point=03d3d&area=true&hide_border=true" width="420" height="165" >
 </p>
 
-<hr>
+<hr> -->
 
 
 <!-- ## Contact Me 😊
