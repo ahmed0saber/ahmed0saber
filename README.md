@@ -20,7 +20,7 @@
 
 # Hi there 👋
 
-> - 🔭 I’m currently studying at faculty of science, Kafr El Sheikh University, Egypt.
+> - 🔭 I’ve graduated from faculty of science, Kafr ElSheikh University, Egypt.
 > - 🌱 I’m learning Frontend Web Development.
 > - 🤝 I’m looking to collaborate on some web projects.
 > - 💬 Ask me about Web Technologies.
